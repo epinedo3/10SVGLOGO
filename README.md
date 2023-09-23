@@ -11,7 +11,7 @@ To find my github, click [here](https://github.com/epinedo3/10SVGLOGO).
 
 <!-- To find my deployed website, click [here](). -->
 
-To find my deployement video, click [here](https://drive.google.com/file/d/1zPHAaLY_u2RuFbrLLdm7q8-uQwodMSH-/view).
+To find my deployement video, click [here](https://drive.google.com/file/d/1FX2VEaN8UJeQtZM8gSUZsx0Tm4ke5Ibx/view).
 
 ## Screenshot
 N/A
