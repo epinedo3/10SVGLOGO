@@ -39,4 +39,4 @@ inquirer.prompt([{
         const square = new Square (response.text, response.textColor, response.shape, response.shapeColor)
         fs.writeFileSync("./dist/logo.svg",square.render())
     }
-})
+});
